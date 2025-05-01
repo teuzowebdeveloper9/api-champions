@@ -3,11 +3,12 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-const express_1 = __importDefault(require("express"));
-const app = (0, express_1.default)();
-app.get('/', (req, res) => {
-    res.send('hello express');
-});
+const app_1 = require("./app");
+const routes_1 = __importDefault(require("./routes/routes"));
+const players_controllers_1 = require("./controller/players-controllers");
+const app = (0, app_1.createApp)();
+app.use('/api', routes_1.default);
+routes_1.default.get("/players", players_controllers_1.getPlayer);
 app.listen(3000, () => {
     console.log('servidor hospedado na porta 3000');
 });

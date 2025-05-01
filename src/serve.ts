@@ -1,12 +1,12 @@
-import express, { json, Request, Response } from "express"
+import { createApp } from "./app"
+import router from "./routes/routes"
+import { getPlayer } from "./controller/players-controllers"
 
-const app = express()
-app.use(json())
+const app = createApp()
 
-app.get('/', (req:Request, res:Response )=> {
-   res.send('hello express') 
-   
-} )
+app.use('/api', router)
+
+router.get("/players", getPlayer)
 
 app.listen(3000, ()=> {
   console.log( 'servidor hospedado na porta 3000')
