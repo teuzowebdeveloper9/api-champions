@@ -106,4 +106,4 @@ Todos os endpoints estão sob o prefixo `/api/players`.
 
 ---
 
-### Feito com esforço 💻 by teuzowebdeveloper9 
+### Feito com esforço  e 💻 by teuzowebdeveloper9 
