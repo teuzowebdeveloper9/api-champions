@@ -1,7 +1,7 @@
 import express, { json, } from "express"
 import router from "./routes/routes";
 
-export function createApp(){
+export function  createApp(){
     const app = express()
     app.use(json())
     

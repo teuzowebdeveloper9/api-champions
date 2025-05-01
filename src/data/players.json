@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1",
+    "name": "Cristiano Ronaldo",
+    "age": 38,
+    "position": "Atacante"
+  },
+  {
+    "id": "2",
+    "name": "Lionel Messi",
+    "age": 36,
+    "position": "Atacante"
+  },
+  {
+    "id": "3",
+    "name": "Neymar Jr.",
+    "age": 31,
+    "position": "Atacante"
+  },
+  {
+    "id": "4",
+    "name": "Kevin De Bruyne",
+    "age": 32,
+    "position": "Meio-campista"
+  },
+  {
+    "id": "5",
+    "name": "Virgil van Dijk",
+    "age": 32,
+    "position": "Zagueiro"
+  },
+  {
+    "id": "6",
+    "name": "Kylian Mbappé",
+    "age": 24,
+    "position": "Atacante"
+  },
+  {
+    "id": "7",
+    "name": "Erling Haaland",
+    "age": 23,
+    "position": "Atacante"
+  },
+  {
+    "id": "8",
+    "name": "Luka Modric",
+    "age": 37,
+    "position": "Meio-campista"
+  },
+  {
+    "id": "9",
+    "name": "Alisson Becker",
+    "age": 30,
+    "position": "Goleiro"
+  },
+  {
+    "id": "10",
+    "name": "Joshua Kimmich",
+    "age": 28,
+    "position": "Meio-campista"
+  },
+  {
+    "id": "11",
+    "name": "Sergio Ramos",
+    "age": 36,
+    "position": "Zagueiro"
+  },
+  {
+    "id": "12",
+    "name": "Karim Benzema",
+    "age": 35,
+    "position": "Atacante"
+  },
+  {
+    "id": "13",
+    "name": "Mohamed Salah",
+    "age": 30,
+    "position": "Atacante"
+  },
+  {
+    "id": "14",
+    "name": "Robert Lewandowski",
+    "age": 34,
+    "position": "Atacante"
+  },
+  {
+    "id": "15",
+    "name": "Jan Oblak",
+    "age": 29,
+    "position": "Goleiro"
+  },
+  {
+    "id": "16",
+    "name": "Marc-André ter Stegen",
+    "age": 30,
+    "position": "Goleiro"
+  },
+  {
+    "id": "17",
+    "name": "Trent Alexander-Arnold",
+    "age": 24,
+    "position": "Lateral"
+  },
+  {
+    "id": "18",
+    "name": "Andrew Robertson",
+    "age": 28,
+    "position": "Lateral"
+  },
+  {
+    "id": "19",
+    "name": "Casemiro",
+    "age": 31,
+    "position": "Meio-campista"
+  },
+  {
+    "id": "20",
+    "name": "Toni Kroos",
+    "age": 33,
+    "position": "Meio-campista"
+  },
+  {
+    "id": "21",
+    "name": "Eden Hazard",
+    "age": 32,
+    "position": "Atacante"
+  },
+  {
+    "id": "22",
+    "name": "Raheem Sterling",
+    "age": 28,
+    "position": "Atacante"
+  },
+  {
+    "id": "23",
+    "name": "Ederson Moraes",
+    "age": 29,
+    "position": "Goleiro"
+  },
+  {
+    "id": "24",
+    "name": "Aymeric Laporte",
+    "age": 28,
+    "position": "Zagueiro"
+  },
+  {
+    "id": "25",
+    "name": "Gerard Piqué",
+    "age": 36,
+    "position": "Zagueiro"
+  },
+  {
+    "id": "26",
+    "name": "Jordi Alba",
+    "age": 34,
+    "position": "Lateral"
+  },
+  {
+    "id": "27",
+    "name": "João Cancelo",
+    "age": 28,
+    "position": "Lateral"
+  },
+  {
+    "id": "28",
+    "name": "Phil Foden",
+    "age": 22,
+    "position": "Meio-campista"
+  },
+  {
+    "id": "29",
+    "name": "Pedri",
+    "age": 20,
+    "position": "Meio-campista"
+  },
+  {
+    "id": "30",
+    "name": "Frenkie de Jong",
+    "age": 25,
+    "position": "Meio-campista"
+  },
+  {
+    "id": "31",
+    "name": "Vinícius Júnior",
+    "age": 22,
+    "position": "Atacante"
+  },
+  {
+    "id": "32",
+    "name": "Rodrygo Goes",
+    "age": 22,
+    "position": "Atacante"
+  },
+  {
+    "id": "33",
+    "name": "Riyad Mahrez",
+    "age": 31,
+    "position": "Atacante"
+  },
+  {
+    "id": "34",
+    "name": "Bernardo Silva",
+    "age": 28,
+    "position": "Meio-campista"
+  },
+  {
+    "id": "35",
+    "name": "Ilkay Gündogan",
+    "age": 32,
+    "position": "Meio-campista"
+  },
+  {
+    "id": "36",
+    "name": "Mats Hummels",
+    "age": 34,
+    "position": "Zagueiro"
+  },
+  {
+    "id": "37",
+    "name": "Leon Goretzka",
+    "age": 28,
+    "position": "Meio-campista"
+  },
+  {
+    "id": "38",
+    "name": "Kingsley Coman",
+    "age": 26,
+    "position": "Atacante"
+  },
+  {
+    "id": "39",
+    "name": "Serge Gnabry",
+    "age": 27,
+    "position": "Atacante"
+  },
+  {
+    "id": "40",
+    "name": "Joshua Zirkzee",
+    "age": 21,
+    "position": "Atacante"
+  },
+  {
+    "id": "41",
+    "name": "Achraf Hakimi",
+    "age": 24,
+    "position": "Lateral"
+  },
+  {
+    "id": "42",
+    "name": "Marquinhos",
+    "age": 28,
+    "position": "Zagueiro"
+  },
+  {
+    "id": "43",
+    "name": "Presnel Kimpembe",
+    "age": 27,
+    "position": "Zagueiro"
+  },
+  {
+    "id": "44",
+    "name": "Marco Verratti",
+    "age": 30,
+    "position": "Meio-campista"
+  },
+  {
+    "id": "45",
+    "name": "Ángel Di María",
+    "age": 35,
+    "position": "Atacante"
+  },
+  {
+    "id": "46",
+    "name": "Leandro Paredes",
+    "age": 28,
+    "position": "Meio-campista"
+  },
+  {
+    "id": "47",
+    "name": "Mauro Icardi",
+    "age": 30,
+    "position": "Atacante"
+  },
+  {
+    "id": "48",
+    "name": "Wissam Ben Yedder",
+    "age": 32,
+    "position": "Atacante"
+  },
+  {
+    "id": "49",
+    "name": "Ciro Immobile",
+    "age": 33,
+    "position": "Atacante"
+  },
+  {
+    "id": "50",
+    "name": "Gianluigi Donnarumma",
+    "age": 24,
+    "position": "Goleiro"
+  }
+] 
